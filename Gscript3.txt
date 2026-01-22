@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo "hey! May I know your name?"
+read name 
+echo "nice to meet you $name"
